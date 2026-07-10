@@ -1,6 +1,6 @@
 # VLCode Lite Releases
 
-Public desktop installers and updater metadata for **VLCode Lite**, the local-first AI IDE for Visual Language (VL).
+Public desktop installers and updater metadata for **VLCode Lite**, the Build workbench of the **VisualLogic Agent OS** — the local-first AI IDE for Visual Language (VL).
 
 > Source code is commercial/private. This repository publishes installers, release assets, checksums, and usage links only.
 
